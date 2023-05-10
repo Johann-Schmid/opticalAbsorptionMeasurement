@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name "ADI")(type "Legacy")(uri "d:/KiCad-libraries-master/ADI.lib")(options "")(descr ""))
+  (lib (name "traco")(type "KiCad")(uri "${KIPRJMOD}/traco.kicad_sym")(options "")(descr ""))
+  (lib (name "J111")(type "KiCad")(uri "d:/opticalAbsorptionMeasurement/J111/J111.kicad_sym")(options "")(descr ""))
+)

@@ -1,0 +1,2032 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>D:\opticalAbsorptionMeasurement\opticalAbsorptionMeasurement\opticalAbsorptionMeasurement.kicad_sch</source>
+    <date>27.04.2023 10:00:50</date>
+    <tool>Eeschema (6.0.9)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>opticalAbsorptionMeasurement</title>
+        <company/>
+        <rev>1.0</rev>
+        <date>2022-11-17</date>
+        <source>opticalAbsorptionMeasurement.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C2">
+      <value>100n</value>
+      <footprint>Capacitor_THT:C_Rect_L7.2mm_W2.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="opticalAbsorptionMeasurement.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b6741fff-ea9d-43c0-b37a-bb6a04e62798</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>100u</value>
+      <footprint>Capacitor_THT:CP_Radial_D8.0mm_P5.00mm</footprint>
+      <libsource lib="Device" part="C_Polarized" description="Polarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="opticalAbsorptionMeasurement.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a85de64a-c458-4e97-b97c-6e7af5fcc610</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>100n</value>
+      <footprint>Capacitor_THT:C_Rect_L7.2mm_W2.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="opticalAbsorptionMeasurement.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6511d241-ef3f-4499-92f5-652137ae007a</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>100n</value>
+      <footprint>Capacitor_THT:C_Rect_L7.2mm_W2.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="opticalAbsorptionMeasurement.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fcc0899f-cc01-4aab-b5e1-2f8a38991e8d</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>100n</value>
+      <footprint>Capacitor_THT:C_Rect_L7.2mm_W2.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="opticalAbsorptionMeasurement.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fcc3cd17-4ce7-49d8-8098-a7a56dbde4cf</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>100n</value>
+      <footprint>Capacitor_THT:C_Rect_L7.2mm_W2.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="opticalAbsorptionMeasurement.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d9d243bd-f590-410e-889f-7380a1d6047b</tstamps>
+    </comp>
+    <comp ref="C12">
+      <value>100n</value>
+      <footprint>Capacitor_THT:C_Rect_L7.2mm_W2.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="opticalAbsorptionMeasurement.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>61a5782f-f43a-47f2-a4c7-13f6da926dc3</tstamps>
+    </comp>
+    <comp ref="C13">
+      <value>100n</value>
+      <footprint>Capacitor_THT:C_Rect_L7.2mm_W2.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="opticalAbsorptionMeasurement.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>24d90318-f549-43f1-a169-4a1068ca99ed</tstamps>
+    </comp>
+    <comp ref="C18">
+      <value>100u</value>
+      <footprint>Capacitor_THT:CP_Radial_D8.0mm_P5.00mm</footprint>
+      <libsource lib="Device" part="C_Polarized" description="Polarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="opticalAbsorptionMeasurement.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>95f71369-2248-4454-811f-d806018f19fb</tstamps>
+    </comp>
+    <comp ref="C19">
+      <value>100u</value>
+      <footprint>Capacitor_THT:CP_Radial_D8.0mm_P5.00mm</footprint>
+      <libsource lib="Device" part="C_Polarized" description="Polarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="opticalAbsorptionMeasurement.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>16e16e31-ad59-40a9-8cb2-93cf05b4ca1e</tstamps>
+    </comp>
+    <comp ref="C22">
+      <value>100u</value>
+      <footprint>Capacitor_THT:CP_Radial_D8.0mm_P5.00mm</footprint>
+      <libsource lib="Device" part="C_Polarized" description="Polarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="opticalAbsorptionMeasurement.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4ab4b278-4599-411c-9b2a-ee59c65bc284</tstamps>
+    </comp>
+    <comp ref="C23">
+      <value>100u</value>
+      <footprint>Capacitor_THT:CP_Radial_D8.0mm_P5.00mm</footprint>
+      <libsource lib="Device" part="C_Polarized" description="Polarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="opticalAbsorptionMeasurement.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>782fa630-7522-4f3a-a04a-a85bee52a044</tstamps>
+    </comp>
+    <comp ref="C26">
+      <value>100n</value>
+      <footprint>Capacitor_THT:C_Rect_L7.2mm_W2.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="opticalAbsorptionMeasurement.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ff16320a-0c72-44af-9f27-6656734647ca</tstamps>
+    </comp>
+    <comp ref="C27">
+      <value>100n</value>
+      <footprint>Capacitor_THT:C_Rect_L7.2mm_W2.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="opticalAbsorptionMeasurement.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>312a488f-c7f9-4b27-8de9-f80bb3423011</tstamps>
+    </comp>
+    <comp ref="C30">
+      <value>100n</value>
+      <footprint>Capacitor_THT:C_Rect_L7.2mm_W2.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="opticalAbsorptionMeasurement.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d8dad696-f15e-43c7-82d4-3123b23fed3f</tstamps>
+    </comp>
+    <comp ref="C31">
+      <value>100n</value>
+      <footprint>Capacitor_THT:C_Rect_L7.2mm_W2.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="opticalAbsorptionMeasurement.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>62507855-7671-4dde-a691-35a7fc3418d6</tstamps>
+    </comp>
+    <comp ref="C32">
+      <value>100n</value>
+      <footprint>Capacitor_THT:C_Rect_L7.2mm_W2.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="opticalAbsorptionMeasurement.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>76454f4f-8a3a-4f0e-bdde-3cd31df7eb6b</tstamps>
+    </comp>
+    <comp ref="C33">
+      <value>100n</value>
+      <footprint>Capacitor_THT:C_Rect_L7.2mm_W2.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="opticalAbsorptionMeasurement.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7bf8dac7-9218-4a16-86cf-503449fc2920</tstamps>
+    </comp>
+    <comp ref="C34">
+      <value>10u</value>
+      <footprint>Capacitor_SMD:CP_Elec_4x5.8</footprint>
+      <libsource lib="Device" part="C_Polarized" description="Polarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="opticalAbsorptionMeasurement.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ba88aafc-8f0c-4531-a5de-d52f129504af</tstamps>
+    </comp>
+    <comp ref="C35">
+      <value>100n</value>
+      <footprint>Capacitor_THT:C_Rect_L7.2mm_W2.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="opticalAbsorptionMeasurement.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e161077e-9bc1-478c-b607-ce904a8a582e</tstamps>
+    </comp>
+    <comp ref="C36">
+      <value>100n</value>
+      <footprint>Capacitor_THT:C_Rect_L7.2mm_W2.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="opticalAbsorptionMeasurement.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>31313b29-9946-4c37-9fa1-9dd4ee4510b1</tstamps>
+    </comp>
+    <comp ref="C37">
+      <value>100n</value>
+      <footprint>Capacitor_THT:C_Rect_L7.2mm_W2.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="opticalAbsorptionMeasurement.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>08b63ab8-19e5-4bc3-865e-e32089062c6b</tstamps>
+    </comp>
+    <comp ref="C38">
+      <value>100n</value>
+      <footprint>Capacitor_THT:C_Rect_L7.2mm_W2.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="opticalAbsorptionMeasurement.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ab42dfe1-df73-42d3-90a3-469d23f8842e</tstamps>
+    </comp>
+    <comp ref="C39">
+      <value>100n</value>
+      <footprint>Capacitor_THT:C_Rect_L7.2mm_W2.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="opticalAbsorptionMeasurement.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3964c4d7-590e-489e-9e65-78005cfa7d63</tstamps>
+    </comp>
+    <comp ref="C40">
+      <value>10u</value>
+      <footprint>Capacitor_SMD:CP_Elec_4x5.8</footprint>
+      <libsource lib="Device" part="C_Polarized" description="Polarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="opticalAbsorptionMeasurement.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>92e4435f-da95-4fe3-baf4-1021862e1d2d</tstamps>
+    </comp>
+    <comp ref="C41">
+      <value>100n</value>
+      <footprint>Capacitor_THT:C_Rect_L7.2mm_W2.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="opticalAbsorptionMeasurement.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2318d2bd-75c0-490b-8d0c-e2c162aa0ba7</tstamps>
+    </comp>
+    <comp ref="C42">
+      <value>15u</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="opticalAbsorptionMeasurement.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>abfd0624-49e3-4ddc-8fe1-0720f095ea96</tstamps>
+    </comp>
+    <comp ref="C43">
+      <value>100n</value>
+      <footprint>Capacitor_THT:C_Rect_L7.2mm_W2.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="opticalAbsorptionMeasurement.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1ace71ce-1258-409d-a38d-08912378034d</tstamps>
+    </comp>
+    <comp ref="C44">
+      <value>100n</value>
+      <footprint>Capacitor_THT:C_Rect_L7.2mm_W2.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="opticalAbsorptionMeasurement.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ff295d09-c649-49c4-a226-60f883b4179d</tstamps>
+    </comp>
+    <comp ref="C45">
+      <value>15u</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="opticalAbsorptionMeasurement.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6ebf6420-2043-4b8d-aa57-f8c12bc12984</tstamps>
+    </comp>
+    <comp ref="C46">
+      <value>100n</value>
+      <footprint>Capacitor_THT:C_Rect_L7.2mm_W2.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="opticalAbsorptionMeasurement.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2f209af3-d26f-4a8a-939e-2e7d7edad104</tstamps>
+    </comp>
+    <comp ref="C47">
+      <value>100n</value>
+      <footprint>Capacitor_THT:C_Rect_L7.2mm_W2.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="opticalAbsorptionMeasurement.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>09533f01-942a-4660-a684-796dcc2e139d</tstamps>
+    </comp>
+    <comp ref="C48">
+      <value>100n</value>
+      <footprint>Capacitor_THT:C_Rect_L7.2mm_W2.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="opticalAbsorptionMeasurement.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8f7c2aac-749f-4b17-8a3c-6ff765570322</tstamps>
+    </comp>
+    <comp ref="C49">
+      <value>100n</value>
+      <footprint>Capacitor_THT:C_Rect_L7.2mm_W2.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="opticalAbsorptionMeasurement.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>07100130-bed1-4de7-b54a-08bdbf46462c</tstamps>
+    </comp>
+    <comp ref="C50">
+      <value>100n</value>
+      <footprint>Capacitor_THT:C_Rect_L7.2mm_W2.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="opticalAbsorptionMeasurement.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b8289712-112b-48df-881e-93523d028dfe</tstamps>
+    </comp>
+    <comp ref="C51">
+      <value>100n</value>
+      <footprint>Capacitor_THT:C_Rect_L7.2mm_W2.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="opticalAbsorptionMeasurement.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>444a5e39-0330-406a-ab52-24e9d7ced5d4</tstamps>
+    </comp>
+    <comp ref="C65">
+      <value>100n</value>
+      <footprint>Capacitor_THT:C_Rect_L7.2mm_W2.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="opticalAbsorptionMeasurement.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f99840c5-b0e2-4228-8454-59acaeecec86</tstamps>
+    </comp>
+    <comp ref="C66">
+      <value>100n</value>
+      <footprint>Capacitor_THT:C_Rect_L7.2mm_W2.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="opticalAbsorptionMeasurement.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1292a444-1b7f-4c94-a918-06de1e4d59d8</tstamps>
+    </comp>
+    <comp ref="C67">
+      <value>100n</value>
+      <footprint>Capacitor_THT:C_Rect_L7.2mm_W2.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="opticalAbsorptionMeasurement.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7dc7220d-630f-49a2-a949-926b87df7ac6</tstamps>
+    </comp>
+    <comp ref="C68">
+      <value>100n</value>
+      <footprint>Capacitor_THT:C_Rect_L7.2mm_W2.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="opticalAbsorptionMeasurement.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>36788828-c281-4522-be67-8b91cf536db3</tstamps>
+    </comp>
+    <comp ref="C69">
+      <value>100n</value>
+      <footprint>Capacitor_THT:C_Rect_L7.2mm_W2.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="opticalAbsorptionMeasurement.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3dd9245b-dfef-44b8-b7a6-3105adbfe7b0</tstamps>
+    </comp>
+    <comp ref="C70">
+      <value>100n</value>
+      <footprint>Capacitor_THT:C_Rect_L7.2mm_W2.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="opticalAbsorptionMeasurement.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>948767a5-6d61-4e80-9ee5-cad88a363967</tstamps>
+    </comp>
+    <comp ref="C71">
+      <value>100n</value>
+      <footprint>Capacitor_THT:C_Rect_L7.2mm_W2.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="opticalAbsorptionMeasurement.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a13b6f83-8406-4410-af76-3a2f69574b50</tstamps>
+    </comp>
+    <comp ref="C72">
+      <value>100n</value>
+      <footprint>Capacitor_THT:C_Rect_L7.2mm_W2.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="opticalAbsorptionMeasurement.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>518708fc-8239-43a9-ab62-f8f4bef1427b</tstamps>
+    </comp>
+    <comp ref="C73">
+      <value>15u</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="opticalAbsorptionMeasurement.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5604522e-739f-432d-ac48-208a680160a8</tstamps>
+    </comp>
+    <comp ref="C74">
+      <value>100n</value>
+      <footprint>Capacitor_THT:C_Rect_L7.2mm_W2.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="opticalAbsorptionMeasurement.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d6d32a91-fd3b-4088-b89d-872feb47ec54</tstamps>
+    </comp>
+    <comp ref="C75">
+      <value>100n</value>
+      <footprint>Capacitor_THT:C_Rect_L7.2mm_W2.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="opticalAbsorptionMeasurement.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>80b09f2a-b7de-4403-8cbd-2a16d7cb7e7c</tstamps>
+    </comp>
+    <comp ref="C76">
+      <value>15u</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="opticalAbsorptionMeasurement.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a3093b32-168d-4ec8-b5f6-c447ae9fc547</tstamps>
+    </comp>
+    <comp ref="C77">
+      <value>100n</value>
+      <footprint>Capacitor_THT:C_Rect_L7.2mm_W2.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="opticalAbsorptionMeasurement.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9f4195fb-66d3-487b-842e-646828d4d6ec</tstamps>
+    </comp>
+    <comp ref="C78">
+      <value>100n</value>
+      <footprint>Capacitor_THT:C_Rect_L7.2mm_W2.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="opticalAbsorptionMeasurement.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>40b59474-2dfd-4443-9889-4d786b4421d2</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>D_Photo</value>
+      <footprint>OptoDevice:Osram_SFH205</footprint>
+      <libsource lib="Device" part="D_Photo" description="Photodiode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="opticalAbsorptionMeasurement.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c1ec7bfe-9a1d-4f0a-ad1b-b47237fd4156</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>D_Photo</value>
+      <footprint>OptoDevice:Osram_SFH205</footprint>
+      <libsource lib="Device" part="D_Photo" description="Photodiode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="opticalAbsorptionMeasurement.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f47288dd-6c7c-4987-ab4d-3aa078539043</tstamps>
+    </comp>
+    <comp ref="D3">
+      <value>D_Photo</value>
+      <footprint>OptoDevice:Osram_SFH205</footprint>
+      <libsource lib="Device" part="D_Photo" description="Photodiode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="opticalAbsorptionMeasurement.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>07d6558f-8087-48ed-9b59-65408e6e01dc</tstamps>
+    </comp>
+    <comp ref="D4">
+      <value>D_Photo</value>
+      <footprint>OptoDevice:Osram_SFH205</footprint>
+      <libsource lib="Device" part="D_Photo" description="Photodiode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="opticalAbsorptionMeasurement.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>61acda11-4895-4658-ac1c-1fa8eeda3de7</tstamps>
+    </comp>
+    <comp ref="D5">
+      <value>LED</value>
+      <footprint>LED_THT:LED_D5.0mm</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="opticalAbsorptionMeasurement.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e636c4ff-f793-4562-b99e-bfaed24defdd</tstamps>
+    </comp>
+    <comp ref="D6">
+      <value>LED</value>
+      <footprint>LED_THT:LED_D5.0mm</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="opticalAbsorptionMeasurement.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5a5d40da-6ff6-43be-9e9e-1a9a1de05777</tstamps>
+    </comp>
+    <comp ref="D7">
+      <value>LED</value>
+      <footprint>LED_THT:LED_D5.0mm</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="opticalAbsorptionMeasurement.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3a097bdb-06f0-4ecb-affe-11e42d5f1c58</tstamps>
+    </comp>
+    <comp ref="D8">
+      <value>LED</value>
+      <footprint>LED_THT:LED_D5.0mm</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="opticalAbsorptionMeasurement.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>95e03577-f795-4dad-b9ea-431a24db5543</tstamps>
+    </comp>
+    <comp ref="D9">
+      <value>LED</value>
+      <footprint>LED_THT:LED_D5.0mm</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="opticalAbsorptionMeasurement.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>50ec5d8a-092b-43b8-aea6-d51643b409da</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>Conn_01x02_Male</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x02_Male" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="opticalAbsorptionMeasurement.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0aabd464-f921-4308-8d6a-3aecd3d708a9</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>Conn_01x03_Male</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x03_Male" description="Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="opticalAbsorptionMeasurement.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>12f5d93c-4d53-486e-8634-522dd4b46b1e</tstamps>
+    </comp>
+    <comp ref="J4">
+      <value>Conn_01x03_Male</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x03_Male" description="Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="opticalAbsorptionMeasurement.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e9b11b7a-d28f-4bcc-9b5c-2ca44a881cc2</tstamps>
+    </comp>
+    <comp ref="J5">
+      <value>Conn_01x03_Male</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x03_Male" description="Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="opticalAbsorptionMeasurement.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>70ea7384-7b10-4a6a-a47c-cb3a50faac41</tstamps>
+    </comp>
+    <comp ref="J6">
+      <value>Conn_01x03_Male</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x03_Male" description="Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="opticalAbsorptionMeasurement.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5fcca75e-8f65-4e23-a4fe-3d58af61688d</tstamps>
+    </comp>
+    <comp ref="J7">
+      <value>Conn_01x04_Male</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x04_Male" description="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="opticalAbsorptionMeasurement.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>515578be-df46-4d2c-ad94-9103b218ea3a</tstamps>
+    </comp>
+    <comp ref="Q1">
+      <value>J111</value>
+      <footprint>J111:TO92</footprint>
+      <libsource lib="J111" part="J111" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="opticalAbsorptionMeasurement.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>66c72e44-a0e1-4d65-a88b-3b5b873bac0f</tstamps>
+    </comp>
+    <comp ref="Q2">
+      <value>J111</value>
+      <footprint>J111:TO92</footprint>
+      <libsource lib="J111" part="J111" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="opticalAbsorptionMeasurement.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0eec7733-1582-40aa-8dc5-bc20be0eb91d</tstamps>
+    </comp>
+    <comp ref="Q3">
+      <value>J111</value>
+      <footprint>J111:TO92</footprint>
+      <libsource lib="J111" part="J111" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="opticalAbsorptionMeasurement.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>76a040d3-e4aa-46c5-9c1b-c56197471287</tstamps>
+    </comp>
+    <comp ref="Q4">
+      <value>J111</value>
+      <footprint>J111:TO92</footprint>
+      <libsource lib="J111" part="J111" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="opticalAbsorptionMeasurement.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e846c164-02f8-43f4-81f9-68b4b57b230f</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>10M</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="opticalAbsorptionMeasurement.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1e2911ec-fce4-4718-8591-584cd3322889</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>10M</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="opticalAbsorptionMeasurement.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>642e4197-2785-468e-a97a-02cd6d610d69</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="opticalAbsorptionMeasurement.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6831b084-a0f6-495f-9959-a7b831d5cbb3</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="opticalAbsorptionMeasurement.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4eb35fb1-6912-4dc8-a47e-1bffbe6389cf</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="opticalAbsorptionMeasurement.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2497e58a-2f64-4680-96f9-e2ffef308843</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="opticalAbsorptionMeasurement.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8b076548-138a-497a-9f78-bf757c2d59ef</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>10k</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="opticalAbsorptionMeasurement.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>660896ff-df19-4074-ab68-06b635ae54e3</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>10k</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="opticalAbsorptionMeasurement.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2e2a102f-4c18-45ac-847d-af7cc0d98176</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>10k</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="opticalAbsorptionMeasurement.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f270e122-a5f3-41c1-940d-892e7fb1e2f2</tstamps>
+    </comp>
+    <comp ref="R10">
+      <value>10k</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="opticalAbsorptionMeasurement.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b84749b9-1bbc-4b44-938d-4cc71d7948d4</tstamps>
+    </comp>
+    <comp ref="R11">
+      <value>10k</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="opticalAbsorptionMeasurement.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>593f3fd1-26b5-4b3d-bae7-89e1b6c8e804</tstamps>
+    </comp>
+    <comp ref="R12">
+      <value>10k</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="opticalAbsorptionMeasurement.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cba31886-2124-4b23-b458-3f520ae8ecfe</tstamps>
+    </comp>
+    <comp ref="R13">
+      <value>10k</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="opticalAbsorptionMeasurement.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00d36693-305c-4986-b9c0-2c2794cb2974</tstamps>
+    </comp>
+    <comp ref="R14">
+      <value>10k</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="opticalAbsorptionMeasurement.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>69401765-a559-4c88-809b-07e14dc814e6</tstamps>
+    </comp>
+    <comp ref="R15">
+      <value>10k</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="opticalAbsorptionMeasurement.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9308bcd8-ac78-416a-99c3-b2f6f97a7e44</tstamps>
+    </comp>
+    <comp ref="R16">
+      <value>10k</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="opticalAbsorptionMeasurement.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f392a510-f0b5-4da8-b7ee-7a8d2c8fee00</tstamps>
+    </comp>
+    <comp ref="R17">
+      <value>10M</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="opticalAbsorptionMeasurement.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>66f12860-b0fb-41af-a974-20cf0e5d277a</tstamps>
+    </comp>
+    <comp ref="R18">
+      <value>10M</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="opticalAbsorptionMeasurement.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>55d72e64-457f-4016-9fd3-c50f0b455a37</tstamps>
+    </comp>
+    <comp ref="R19">
+      <value>50</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="opticalAbsorptionMeasurement.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d05bc0d9-6b16-435a-a89e-ef6bd25488dc</tstamps>
+    </comp>
+    <comp ref="R20">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="opticalAbsorptionMeasurement.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>62a9658a-2c68-4a71-afcc-003c0d4aa542</tstamps>
+    </comp>
+    <comp ref="R21">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="opticalAbsorptionMeasurement.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>262c8abf-dfa5-4c15-b5bb-8e1c3f8f2bdb</tstamps>
+    </comp>
+    <comp ref="R22">
+      <value>50</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="opticalAbsorptionMeasurement.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>94ef7a57-8e50-484f-ad59-caef1e77328c</tstamps>
+    </comp>
+    <comp ref="R23">
+      <value>50</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="opticalAbsorptionMeasurement.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f971fdee-41ea-457d-a2f8-9e1480c509aa</tstamps>
+    </comp>
+    <comp ref="R24">
+      <value>50</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="opticalAbsorptionMeasurement.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fd815fbd-b251-4a7a-b653-2b0a6980805e</tstamps>
+    </comp>
+    <comp ref="R25">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="opticalAbsorptionMeasurement.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5d5bac9d-70a3-468d-8c1b-d5a62d5811f2</tstamps>
+    </comp>
+    <comp ref="R26">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="opticalAbsorptionMeasurement.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>55da3523-c49d-4582-a963-477dafedaca3</tstamps>
+    </comp>
+    <comp ref="R27">
+      <value>10k</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="opticalAbsorptionMeasurement.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b5357ad3-9165-4960-8f27-4a6e756abcbe</tstamps>
+    </comp>
+    <comp ref="R28">
+      <value>10k</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="opticalAbsorptionMeasurement.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>720c5821-eab6-4a28-81e0-7a50ed3291a5</tstamps>
+    </comp>
+    <comp ref="R29">
+      <value>10k</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="opticalAbsorptionMeasurement.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>baaaa721-af24-49e9-879b-6f337187af69</tstamps>
+    </comp>
+    <comp ref="R30">
+      <value>10k</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="opticalAbsorptionMeasurement.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dd1d46c3-72fa-46ec-b261-5d76e9357275</tstamps>
+    </comp>
+    <comp ref="R31">
+      <value>10k</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="opticalAbsorptionMeasurement.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>aaa17e7e-e4a1-4313-8573-95b136e781ac</tstamps>
+    </comp>
+    <comp ref="R32">
+      <value>10k</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="opticalAbsorptionMeasurement.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>95b168b5-07a8-4f37-bba5-8e9222f2fca4</tstamps>
+    </comp>
+    <comp ref="R33">
+      <value>1,6k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="opticalAbsorptionMeasurement.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>13cf3e98-9ef6-4425-934b-1ddeaa7680bf</tstamps>
+    </comp>
+    <comp ref="R34">
+      <value>10k</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="opticalAbsorptionMeasurement.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f8caf1d6-2b7a-4e8d-af9f-cea167d47694</tstamps>
+    </comp>
+    <comp ref="R35">
+      <value>10k</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="opticalAbsorptionMeasurement.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1e888848-f387-4580-990c-974f86adc017</tstamps>
+    </comp>
+    <comp ref="R36">
+      <value>10k</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="opticalAbsorptionMeasurement.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>047ceedf-501d-4b07-9c5f-23fb487db2bc</tstamps>
+    </comp>
+    <comp ref="R37">
+      <value>R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="opticalAbsorptionMeasurement.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c35f15e2-7a2d-496d-998d-a54d6e96c2fc</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>TDR_3-0523SM</value>
+      <footprint>traco:TDR_3SM</footprint>
+      <datasheet>https://www.mouser.de/datasheet/2/687/tdr3sm_datasheet-3049711.pdf</datasheet>
+      <libsource lib="traco" part="TDR_3-0523SM" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="opticalAbsorptionMeasurement.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>95656123-de5e-44ba-aa7c-91d7e6e280a4</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>OPA602AU</value>
+      <footprint>Package_SO_AKL:SO-8_3.9x4.9mm_P1.27mm</footprint>
+      <datasheet>https://www.ti.com/lit/ds/symlink/opa602.pdf?ts=1635072161857&amp;ref_url=https%253A%252F%252Fwww.google.com%252F#:~:text=The%20OPA602%20is%20a%20precision,bandwidth%20design%20minimizes%20dynamic%20errors.</datasheet>
+      <libsource lib="Amplifier_Operational_AKL" part="OPA602AU" description="SO-8 JFET Operational Amplifier, 3mV Offset, 15μV/°C Drift, 3.5MHz GBW, Alternate KiCAD Library"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="opticalAbsorptionMeasurement.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d44bc575-d7f1-4b9d-9a18-a1e9b00202fb</tstamps>
+    </comp>
+    <comp ref="U3">
+      <value>OPA602AU</value>
+      <footprint>Package_SO_AKL:SO-8_3.9x4.9mm_P1.27mm</footprint>
+      <datasheet>https://www.ti.com/lit/ds/symlink/opa602.pdf?ts=1635072161857&amp;ref_url=https%253A%252F%252Fwww.google.com%252F#:~:text=The%20OPA602%20is%20a%20precision,bandwidth%20design%20minimizes%20dynamic%20errors.</datasheet>
+      <libsource lib="Amplifier_Operational_AKL" part="OPA602AU" description="SO-8 JFET Operational Amplifier, 3mV Offset, 15μV/°C Drift, 3.5MHz GBW, Alternate KiCAD Library"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="opticalAbsorptionMeasurement.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1474628e-d454-46fe-8078-5c46042b241a</tstamps>
+    </comp>
+    <comp ref="U6">
+      <value>L7812</value>
+      <footprint>Package_TO_SOT_THT:TO-220-3_Vertical</footprint>
+      <datasheet>http://www.st.com/content/ccc/resource/technical/document/datasheet/41/4f/b3/b0/12/d4/47/88/CD00000444.pdf/files/CD00000444.pdf/jcr:content/translations/en.CD00000444.pdf</datasheet>
+      <libsource lib="traco" part="L7812" description="Positive 1.5A 35V Linear Regulator, Fixed Output 12V, TO-220/TO-263/TO-252"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="opticalAbsorptionMeasurement.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8b147eaa-e4fa-4853-b371-9e28ade15814</tstamps>
+    </comp>
+    <comp ref="U7">
+      <value>L7912</value>
+      <footprint>Package_TO_SOT_THT:TO-220-3_Vertical</footprint>
+      <datasheet>http://www.st.com/content/ccc/resource/technical/document/datasheet/c9/16/86/41/c7/2b/45/f2/CD00000450.pdf/files/CD00000450.pdf/jcr:content/translations/en.CD00000450.pdf</datasheet>
+      <libsource lib="traco" part="L7912" description="Negative 1.5A 35V Linear Regulator, Fixed Output -12V, TO-220/TO-263"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="opticalAbsorptionMeasurement.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>56ac099a-5b01-45d7-90cd-ab18d73d9e80</tstamps>
+    </comp>
+    <comp ref="U8">
+      <value>OPA602AU</value>
+      <footprint>Package_SO_AKL:SO-8_3.9x4.9mm_P1.27mm</footprint>
+      <datasheet>https://www.ti.com/lit/ds/symlink/opa602.pdf?ts=1635072161857&amp;ref_url=https%253A%252F%252Fwww.google.com%252F#:~:text=The%20OPA602%20is%20a%20precision,bandwidth%20design%20minimizes%20dynamic%20errors.</datasheet>
+      <libsource lib="Amplifier_Operational_AKL" part="OPA602AU" description="SO-8 JFET Operational Amplifier, 3mV Offset, 15μV/°C Drift, 3.5MHz GBW, Alternate KiCAD Library"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="opticalAbsorptionMeasurement.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>80ef4e97-9a26-4989-a6fd-d0f8fc6ffcba</tstamps>
+    </comp>
+    <comp ref="U9">
+      <value>OPA602AU</value>
+      <footprint>Package_SO_AKL:SO-8_3.9x4.9mm_P1.27mm</footprint>
+      <datasheet>https://www.ti.com/lit/ds/symlink/opa602.pdf?ts=1635072161857&amp;ref_url=https%253A%252F%252Fwww.google.com%252F#:~:text=The%20OPA602%20is%20a%20precision,bandwidth%20design%20minimizes%20dynamic%20errors.</datasheet>
+      <libsource lib="Amplifier_Operational_AKL" part="OPA602AU" description="SO-8 JFET Operational Amplifier, 3mV Offset, 15μV/°C Drift, 3.5MHz GBW, Alternate KiCAD Library"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="opticalAbsorptionMeasurement.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8e62243c-a81e-4785-9ebd-52074babe5b5</tstamps>
+    </comp>
+    <comp ref="U10">
+      <value>ADR01</value>
+      <footprint>Package_SO:SOIC-8_3.9x4.9mm_P1.27mm</footprint>
+      <fields>
+        <field name="MFN">Analog Devices</field>
+        <field name="MFP">ADR01ARZ</field>
+      </fields>
+      <libsource lib="ADI" part="ADR01" description="Ultracompact, Precision 10.0 V Reference"/>
+      <property name="MFP" value="ADR01ARZ"/>
+      <property name="MFN" value="Analog Devices"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="opticalAbsorptionMeasurement.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>64377f67-9a3d-4222-a9ab-7cd7bb2bf0d3</tstamps>
+    </comp>
+    <comp ref="U11">
+      <value>OPA602AU</value>
+      <footprint>Package_SO_AKL:SO-8_3.9x4.9mm_P1.27mm</footprint>
+      <datasheet>https://www.ti.com/lit/ds/symlink/opa602.pdf?ts=1635072161857&amp;ref_url=https%253A%252F%252Fwww.google.com%252F#:~:text=The%20OPA602%20is%20a%20precision,bandwidth%20design%20minimizes%20dynamic%20errors.</datasheet>
+      <libsource lib="Amplifier_Operational_AKL" part="OPA602AU" description="SO-8 JFET Operational Amplifier, 3mV Offset, 15μV/°C Drift, 3.5MHz GBW, Alternate KiCAD Library"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="opticalAbsorptionMeasurement.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>55a2437c-a958-45de-9956-988b3f7303ce</tstamps>
+    </comp>
+    <comp ref="U12">
+      <value>OPA602AU</value>
+      <footprint>Package_SO_AKL:SO-8_3.9x4.9mm_P1.27mm</footprint>
+      <datasheet>https://www.ti.com/lit/ds/symlink/opa602.pdf?ts=1635072161857&amp;ref_url=https%253A%252F%252Fwww.google.com%252F#:~:text=The%20OPA602%20is%20a%20precision,bandwidth%20design%20minimizes%20dynamic%20errors.</datasheet>
+      <libsource lib="Amplifier_Operational_AKL" part="OPA602AU" description="SO-8 JFET Operational Amplifier, 3mV Offset, 15μV/°C Drift, 3.5MHz GBW, Alternate KiCAD Library"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="opticalAbsorptionMeasurement.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bcf2d79f-0840-42b6-a337-9b97f617e1cc</tstamps>
+    </comp>
+    <comp ref="U13">
+      <value>OPA602AU</value>
+      <footprint>Package_SO_AKL:SO-8_3.9x4.9mm_P1.27mm</footprint>
+      <datasheet>https://www.ti.com/lit/ds/symlink/opa602.pdf?ts=1635072161857&amp;ref_url=https%253A%252F%252Fwww.google.com%252F#:~:text=The%20OPA602%20is%20a%20precision,bandwidth%20design%20minimizes%20dynamic%20errors.</datasheet>
+      <libsource lib="Amplifier_Operational_AKL" part="OPA602AU" description="SO-8 JFET Operational Amplifier, 3mV Offset, 15μV/°C Drift, 3.5MHz GBW, Alternate KiCAD Library"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="opticalAbsorptionMeasurement.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f9656591-5fae-4dfc-9c6c-2710b41e0176</tstamps>
+    </comp>
+    <comp ref="U14">
+      <value>OPA602AU</value>
+      <footprint>Package_SO_AKL:SO-8_3.9x4.9mm_P1.27mm</footprint>
+      <datasheet>https://www.ti.com/lit/ds/symlink/opa602.pdf?ts=1635072161857&amp;ref_url=https%253A%252F%252Fwww.google.com%252F#:~:text=The%20OPA602%20is%20a%20precision,bandwidth%20design%20minimizes%20dynamic%20errors.</datasheet>
+      <libsource lib="Amplifier_Operational_AKL" part="OPA602AU" description="SO-8 JFET Operational Amplifier, 3mV Offset, 15μV/°C Drift, 3.5MHz GBW, Alternate KiCAD Library"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="opticalAbsorptionMeasurement.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e9cb320a-5366-4fd9-a1bc-7fe4f92782ed</tstamps>
+    </comp>
+    <comp ref="U15">
+      <value>OPA602AU</value>
+      <footprint>Package_SO_AKL:SO-8_3.9x4.9mm_P1.27mm</footprint>
+      <datasheet>https://www.ti.com/lit/ds/symlink/opa602.pdf?ts=1635072161857&amp;ref_url=https%253A%252F%252Fwww.google.com%252F#:~:text=The%20OPA602%20is%20a%20precision,bandwidth%20design%20minimizes%20dynamic%20errors.</datasheet>
+      <libsource lib="Amplifier_Operational_AKL" part="OPA602AU" description="SO-8 JFET Operational Amplifier, 3mV Offset, 15μV/°C Drift, 3.5MHz GBW, Alternate KiCAD Library"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="opticalAbsorptionMeasurement.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f077a8b9-69fc-4df0-9cf2-6e30ce131ae2</tstamps>
+    </comp>
+    <comp ref="U16">
+      <value>OPA602AU</value>
+      <footprint>Package_SO_AKL:SO-8_3.9x4.9mm_P1.27mm</footprint>
+      <datasheet>https://www.ti.com/lit/ds/symlink/opa602.pdf?ts=1635072161857&amp;ref_url=https%253A%252F%252Fwww.google.com%252F#:~:text=The%20OPA602%20is%20a%20precision,bandwidth%20design%20minimizes%20dynamic%20errors.</datasheet>
+      <libsource lib="Amplifier_Operational_AKL" part="OPA602AU" description="SO-8 JFET Operational Amplifier, 3mV Offset, 15μV/°C Drift, 3.5MHz GBW, Alternate KiCAD Library"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="opticalAbsorptionMeasurement.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2bf2531f-06ce-4144-8971-7a4c5175ae9b</tstamps>
+    </comp>
+    <comp ref="U19">
+      <value>OPA602AU</value>
+      <footprint>Package_SO_AKL:SO-8_3.9x4.9mm_P1.27mm</footprint>
+      <datasheet>https://www.ti.com/lit/ds/symlink/opa602.pdf?ts=1635072161857&amp;ref_url=https%253A%252F%252Fwww.google.com%252F#:~:text=The%20OPA602%20is%20a%20precision,bandwidth%20design%20minimizes%20dynamic%20errors.</datasheet>
+      <libsource lib="Amplifier_Operational_AKL" part="OPA602AU" description="SO-8 JFET Operational Amplifier, 3mV Offset, 15μV/°C Drift, 3.5MHz GBW, Alternate KiCAD Library"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="opticalAbsorptionMeasurement.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2280dc22-6792-4377-b531-881b79847743</tstamps>
+    </comp>
+    <comp ref="U20">
+      <value>OPA602AU</value>
+      <footprint>Package_SO_AKL:SO-8_3.9x4.9mm_P1.27mm</footprint>
+      <datasheet>https://www.ti.com/lit/ds/symlink/opa602.pdf?ts=1635072161857&amp;ref_url=https%253A%252F%252Fwww.google.com%252F#:~:text=The%20OPA602%20is%20a%20precision,bandwidth%20design%20minimizes%20dynamic%20errors.</datasheet>
+      <libsource lib="Amplifier_Operational_AKL" part="OPA602AU" description="SO-8 JFET Operational Amplifier, 3mV Offset, 15μV/°C Drift, 3.5MHz GBW, Alternate KiCAD Library"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="opticalAbsorptionMeasurement.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b0ac940a-0b70-4096-a531-671a3f24044d</tstamps>
+    </comp>
+    <comp ref="U21">
+      <value>OPA602AU</value>
+      <footprint>Package_SO_AKL:SO-8_3.9x4.9mm_P1.27mm</footprint>
+      <datasheet>https://www.ti.com/lit/ds/symlink/opa602.pdf?ts=1635072161857&amp;ref_url=https%253A%252F%252Fwww.google.com%252F#:~:text=The%20OPA602%20is%20a%20precision,bandwidth%20design%20minimizes%20dynamic%20errors.</datasheet>
+      <libsource lib="Amplifier_Operational_AKL" part="OPA602AU" description="SO-8 JFET Operational Amplifier, 3mV Offset, 15μV/°C Drift, 3.5MHz GBW, Alternate KiCAD Library"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="opticalAbsorptionMeasurement.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fa6ccf40-840f-4244-9d44-fb1c45e3f51b</tstamps>
+    </comp>
+    <comp ref="U22">
+      <value>OPA602AU</value>
+      <footprint>Package_SO_AKL:SO-8_3.9x4.9mm_P1.27mm</footprint>
+      <datasheet>https://www.ti.com/lit/ds/symlink/opa602.pdf?ts=1635072161857&amp;ref_url=https%253A%252F%252Fwww.google.com%252F#:~:text=The%20OPA602%20is%20a%20precision,bandwidth%20design%20minimizes%20dynamic%20errors.</datasheet>
+      <libsource lib="Amplifier_Operational_AKL" part="OPA602AU" description="SO-8 JFET Operational Amplifier, 3mV Offset, 15μV/°C Drift, 3.5MHz GBW, Alternate KiCAD Library"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="opticalAbsorptionMeasurement.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>138a4733-1880-42e9-9e0b-85fdd55832b8</tstamps>
+    </comp>
+    <comp ref="U23">
+      <value>OPA602AU</value>
+      <footprint>Package_SO_AKL:SO-8_3.9x4.9mm_P1.27mm</footprint>
+      <datasheet>https://www.ti.com/lit/ds/symlink/opa602.pdf?ts=1635072161857&amp;ref_url=https%253A%252F%252Fwww.google.com%252F#:~:text=The%20OPA602%20is%20a%20precision,bandwidth%20design%20minimizes%20dynamic%20errors.</datasheet>
+      <libsource lib="Amplifier_Operational_AKL" part="OPA602AU" description="SO-8 JFET Operational Amplifier, 3mV Offset, 15μV/°C Drift, 3.5MHz GBW, Alternate KiCAD Library"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="opticalAbsorptionMeasurement.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>44fa956a-605f-4276-876f-d864413c08df</tstamps>
+    </comp>
+    <comp ref="U24">
+      <value>OPA602AU</value>
+      <footprint>Package_SO_AKL:SO-8_3.9x4.9mm_P1.27mm</footprint>
+      <datasheet>https://www.ti.com/lit/ds/symlink/opa602.pdf?ts=1635072161857&amp;ref_url=https%253A%252F%252Fwww.google.com%252F#:~:text=The%20OPA602%20is%20a%20precision,bandwidth%20design%20minimizes%20dynamic%20errors.</datasheet>
+      <libsource lib="Amplifier_Operational_AKL" part="OPA602AU" description="SO-8 JFET Operational Amplifier, 3mV Offset, 15μV/°C Drift, 3.5MHz GBW, Alternate KiCAD Library"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="opticalAbsorptionMeasurement.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>21cd0b58-6d38-4703-afba-13ab04434331</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="ADI" part="ADR01">
+      <description>Ultracompact, Precision 10.0 V Reference</description>
+      <fields>
+        <field name="Reference">U10</field>
+        <field name="Value">ADR01</field>
+        <field name="Footprint">Housings_SOIC:SOIC-8_3.9x4.9mm_Pitch1.27mm</field>
+        <field name="MFP">ADR01ARZ</field>
+        <field name="MFN">Analog Devices</field>
+      </fields>
+      <pins>
+        <pin num="2" name="Vin" type="power_in"/>
+        <pin num="3" name="Temp" type="output"/>
+        <pin num="4" name="GND" type="power_in"/>
+        <pin num="5" name="Trim" type="input"/>
+        <pin num="6" name="Vout" type="power_out"/>
+      </pins>
+    </libpart>
+    <libpart lib="Amplifier_Operational_AKL" part="OPA602AU">
+      <description>SO-8 JFET Operational Amplifier, 3mV Offset, 15μV/°C Drift, 3.5MHz GBW, Alternate KiCAD Library</description>
+      <docs>https://www.ti.com/lit/ds/symlink/opa602.pdf?ts=1635072161857&amp;ref_url=https%253A%252F%252Fwww.google.com%252F#:~:text=The%20OPA602%20is%20a%20precision,bandwidth%20design%20minimizes%20dynamic%20errors.</docs>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">OPA602AU</field>
+        <field name="Footprint">Package_SO_AKL:SO-8_3.9x4.9mm_P1.27mm</field>
+        <field name="Datasheet">https://www.ti.com/lit/ds/symlink/opa602.pdf?ts=1635072161857&amp;ref_url=https%253A%252F%252Fwww.google.com%252F#:~:text=The%20OPA602%20is%20a%20precision,bandwidth%20design%20minimizes%20dynamic%20errors.</field>
+      </fields>
+      <pins>
+        <pin num="1" name="OFF" type="passive"/>
+        <pin num="2" name="-" type="input"/>
+        <pin num="3" name="+" type="input"/>
+        <pin num="4" name="V-" type="power_in"/>
+        <pin num="5" name="OFF" type="passive"/>
+        <pin num="6" name="" type="output"/>
+        <pin num="7" name="V+" type="power_in"/>
+        <pin num="8" name="NC" type="no_connect"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Conn_01x02_Male">
+      <description>Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J1</field>
+        <field name="Value">Conn_01x02_Male</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="power_out"/>
+        <pin num="2" name="Pin_2" type="power_out"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Conn_01x03_Male">
+      <description>Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x03_Male</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Conn_01x04_Male">
+      <description>Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x04_Male</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Polarized">
+      <description>Polarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>CP_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Polarized</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="D_Photo">
+      <description>Photodiode</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D_Photo</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="LED">
+      <description>Light emitting diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="J111" part="J111">
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">J111</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+        <pin num="3" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="traco" part="L7812">
+      <description>Positive 1.5A 35V Linear Regulator, Fixed Output 12V, TO-220/TO-263/TO-252</description>
+      <docs>http://www.st.com/content/ccc/resource/technical/document/datasheet/41/4f/b3/b0/12/d4/47/88/CD00000444.pdf/files/CD00000444.pdf/jcr:content/translations/en.CD00000444.pdf</docs>
+      <footprints>
+        <fp>TO?252*</fp>
+        <fp>TO?263*</fp>
+        <fp>TO?220*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">L7812</field>
+        <field name="Footprint">Package_TO_SOT_THT:TO-220-3_Vertical</field>
+        <field name="Datasheet">http://www.st.com/content/ccc/resource/technical/document/datasheet/41/4f/b3/b0/12/d4/47/88/CD00000444.pdf/files/CD00000444.pdf/jcr:content/translations/en.CD00000444.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="IN" type="power_in"/>
+        <pin num="2" name="GND" type="power_in"/>
+        <pin num="3" name="OUT" type="power_out"/>
+      </pins>
+    </libpart>
+    <libpart lib="traco" part="L7912">
+      <description>Negative 1.5A 35V Linear Regulator, Fixed Output -12V, TO-220/TO-263</description>
+      <docs>http://www.st.com/content/ccc/resource/technical/document/datasheet/c9/16/86/41/c7/2b/45/f2/CD00000450.pdf/files/CD00000450.pdf/jcr:content/translations/en.CD00000450.pdf</docs>
+      <footprints>
+        <fp>TO?220*</fp>
+        <fp>TO?263*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">L7912</field>
+        <field name="Footprint">Package_TO_SOT_THT:TO-220-3_Vertical</field>
+        <field name="Datasheet">http://www.st.com/content/ccc/resource/technical/document/datasheet/c9/16/86/41/c7/2b/45/f2/CD00000450.pdf/files/CD00000450.pdf/jcr:content/translations/en.CD00000450.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="power_in"/>
+        <pin num="2" name="VI" type="power_in"/>
+        <pin num="3" name="VO" type="power_out"/>
+      </pins>
+    </libpart>
+    <libpart lib="traco" part="TDR_3-0523SM">
+      <docs>https://www.mouser.de/datasheet/2/687/tdr3sm_datasheet-3049711.pdf</docs>
+      <fields>
+        <field name="Reference">U1</field>
+        <field name="Value">TDR_3-0523SM</field>
+        <field name="Footprint">traco:TDR_3SM</field>
+        <field name="Datasheet">https://www.mouser.de/datasheet/2/687/tdr3sm_datasheet-3049711.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="power_in"/>
+        <pin num="2" name="Remote_On_Off" type="no_connect"/>
+        <pin num="6" name="Common" type="no_connect"/>
+        <pin num="7" name="-Vout" type="power_out"/>
+        <pin num="8" name="+Vout" type="power_out"/>
+        <pin num="9" name="Common" type="no_connect"/>
+        <pin num="14" name="Vcc" type="power_in"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="ADI">
+      <uri>d:/KiCad-libraries-master/ADI.lib</uri>
+    </library>
+    <library logical="Amplifier_Operational_AKL">
+      <uri>C:/Users/LocalAdmin/Documents/kiCad/6.0/3rdparty/symbols/com_github_dawidcislo_alternate-kicad-library/Amplifier_Operational_AKL.kicad_sym</uri>
+    </library>
+    <library logical="Connector">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Connector.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+    <library logical="J111">
+      <uri>d:/opticalAbsorptionMeasurement/J111/J111.kicad_sym</uri>
+    </library>
+    <library logical="traco">
+      <uri>D:\opticalAbsorptionMeasurement\opticalAbsorptionMeasurement/traco.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+5V">
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="J1" pin="1" pinfunction="Pin_1" pintype="power_out"/>
+      <node ref="Q1" pin="3" pintype="passive"/>
+      <node ref="Q2" pin="3" pintype="passive"/>
+      <node ref="Q3" pin="3" pintype="passive"/>
+      <node ref="Q4" pin="3" pintype="passive"/>
+      <node ref="R33" pin="2" pintype="passive"/>
+      <node ref="U1" pin="14" pinfunction="Vcc" pintype="power_in"/>
+    </net>
+    <net code="2" name="+10V">
+      <node ref="C40" pin="1" pintype="passive"/>
+      <node ref="C41" pin="1" pintype="passive"/>
+      <node ref="R27" pin="1" pintype="passive"/>
+      <node ref="R29" pin="1" pintype="passive"/>
+      <node ref="R7" pin="1" pintype="passive"/>
+      <node ref="R9" pin="1" pintype="passive"/>
+      <node ref="U10" pin="6" pinfunction="Vout" pintype="power_out"/>
+    </net>
+    <net code="3" name="+12V">
+      <node ref="C22" pin="1" pintype="passive"/>
+      <node ref="C26" pin="1" pintype="passive"/>
+      <node ref="C30" pin="1" pintype="passive"/>
+      <node ref="C32" pin="1" pintype="passive"/>
+      <node ref="C34" pin="1" pintype="passive"/>
+      <node ref="C35" pin="1" pintype="passive"/>
+      <node ref="C36" pin="1" pintype="passive"/>
+      <node ref="C38" pin="1" pintype="passive"/>
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="C43" pin="1" pintype="passive"/>
+      <node ref="C46" pin="1" pintype="passive"/>
+      <node ref="C48" pin="1" pintype="passive"/>
+      <node ref="C50" pin="1" pintype="passive"/>
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="C65" pin="1" pintype="passive"/>
+      <node ref="C67" pin="1" pintype="passive"/>
+      <node ref="C69" pin="1" pintype="passive"/>
+      <node ref="C71" pin="1" pintype="passive"/>
+      <node ref="C74" pin="1" pintype="passive"/>
+      <node ref="C77" pin="1" pintype="passive"/>
+      <node ref="U10" pin="2" pinfunction="Vin" pintype="power_in"/>
+      <node ref="U11" pin="7" pinfunction="V+" pintype="power_in"/>
+      <node ref="U12" pin="7" pinfunction="V+" pintype="power_in"/>
+      <node ref="U13" pin="7" pinfunction="V+" pintype="power_in"/>
+      <node ref="U14" pin="7" pinfunction="V+" pintype="power_in"/>
+      <node ref="U15" pin="7" pinfunction="V+" pintype="power_in"/>
+      <node ref="U16" pin="7" pinfunction="V+" pintype="power_in"/>
+      <node ref="U19" pin="7" pinfunction="V+" pintype="power_in"/>
+      <node ref="U2" pin="7" pinfunction="V+" pintype="power_in"/>
+      <node ref="U20" pin="7" pinfunction="V+" pintype="power_in"/>
+      <node ref="U21" pin="7" pinfunction="V+" pintype="power_in"/>
+      <node ref="U22" pin="7" pinfunction="V+" pintype="power_in"/>
+      <node ref="U23" pin="7" pinfunction="V+" pintype="power_in"/>
+      <node ref="U24" pin="7" pinfunction="V+" pintype="power_in"/>
+      <node ref="U3" pin="7" pinfunction="V+" pintype="power_in"/>
+      <node ref="U6" pin="3" pinfunction="OUT" pintype="power_out"/>
+      <node ref="U8" pin="7" pinfunction="V+" pintype="power_in"/>
+      <node ref="U9" pin="7" pinfunction="V+" pintype="power_in"/>
+    </net>
+    <net code="4" name="+15V">
+      <node ref="C12" pin="1" pintype="passive"/>
+      <node ref="C18" pin="1" pintype="passive"/>
+      <node ref="U1" pin="8" pinfunction="+Vout" pintype="power_out"/>
+      <node ref="U6" pin="1" pinfunction="IN" pintype="power_in"/>
+    </net>
+    <net code="5" name="-12V">
+      <node ref="C23" pin="2" pintype="passive"/>
+      <node ref="C27" pin="2" pintype="passive"/>
+      <node ref="C31" pin="1" pintype="passive"/>
+      <node ref="C33" pin="1" pintype="passive"/>
+      <node ref="C37" pin="1" pintype="passive"/>
+      <node ref="C39" pin="1" pintype="passive"/>
+      <node ref="C44" pin="1" pintype="passive"/>
+      <node ref="C47" pin="1" pintype="passive"/>
+      <node ref="C49" pin="1" pintype="passive"/>
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="C51" pin="1" pintype="passive"/>
+      <node ref="C66" pin="1" pintype="passive"/>
+      <node ref="C68" pin="1" pintype="passive"/>
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="C70" pin="1" pintype="passive"/>
+      <node ref="C72" pin="1" pintype="passive"/>
+      <node ref="C75" pin="1" pintype="passive"/>
+      <node ref="C78" pin="1" pintype="passive"/>
+      <node ref="U11" pin="4" pinfunction="V-" pintype="power_in"/>
+      <node ref="U12" pin="4" pinfunction="V-" pintype="power_in"/>
+      <node ref="U13" pin="4" pinfunction="V-" pintype="power_in"/>
+      <node ref="U14" pin="4" pinfunction="V-" pintype="power_in"/>
+      <node ref="U15" pin="4" pinfunction="V-" pintype="power_in"/>
+      <node ref="U16" pin="4" pinfunction="V-" pintype="power_in"/>
+      <node ref="U19" pin="4" pinfunction="V-" pintype="power_in"/>
+      <node ref="U2" pin="4" pinfunction="V-" pintype="power_in"/>
+      <node ref="U20" pin="4" pinfunction="V-" pintype="power_in"/>
+      <node ref="U21" pin="4" pinfunction="V-" pintype="power_in"/>
+      <node ref="U22" pin="4" pinfunction="V-" pintype="power_in"/>
+      <node ref="U23" pin="4" pinfunction="V-" pintype="power_in"/>
+      <node ref="U24" pin="4" pinfunction="V-" pintype="power_in"/>
+      <node ref="U3" pin="4" pinfunction="V-" pintype="power_in"/>
+      <node ref="U7" pin="3" pinfunction="VO" pintype="power_out"/>
+      <node ref="U8" pin="4" pinfunction="V-" pintype="power_in"/>
+      <node ref="U9" pin="4" pinfunction="V-" pintype="power_in"/>
+    </net>
+    <net code="6" name="-15V">
+      <node ref="C13" pin="2" pintype="passive"/>
+      <node ref="C19" pin="2" pintype="passive"/>
+      <node ref="U1" pin="7" pinfunction="-Vout" pintype="power_out"/>
+      <node ref="U7" pin="2" pinfunction="VI" pintype="power_in"/>
+    </net>
+    <net code="7" name="GND">
+      <node ref="C12" pin="2" pintype="passive"/>
+      <node ref="C13" pin="1" pintype="passive"/>
+      <node ref="C18" pin="2" pintype="passive"/>
+      <node ref="C19" pin="1" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C22" pin="2" pintype="passive"/>
+      <node ref="C23" pin="1" pintype="passive"/>
+      <node ref="C26" pin="2" pintype="passive"/>
+      <node ref="C27" pin="1" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C30" pin="2" pintype="passive"/>
+      <node ref="C31" pin="2" pintype="passive"/>
+      <node ref="C32" pin="2" pintype="passive"/>
+      <node ref="C33" pin="2" pintype="passive"/>
+      <node ref="C34" pin="2" pintype="passive"/>
+      <node ref="C35" pin="2" pintype="passive"/>
+      <node ref="C36" pin="2" pintype="passive"/>
+      <node ref="C37" pin="2" pintype="passive"/>
+      <node ref="C38" pin="2" pintype="passive"/>
+      <node ref="C39" pin="2" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C40" pin="2" pintype="passive"/>
+      <node ref="C41" pin="2" pintype="passive"/>
+      <node ref="C43" pin="2" pintype="passive"/>
+      <node ref="C44" pin="2" pintype="passive"/>
+      <node ref="C46" pin="2" pintype="passive"/>
+      <node ref="C47" pin="2" pintype="passive"/>
+      <node ref="C48" pin="2" pintype="passive"/>
+      <node ref="C49" pin="2" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C50" pin="2" pintype="passive"/>
+      <node ref="C51" pin="2" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="C65" pin="2" pintype="passive"/>
+      <node ref="C66" pin="2" pintype="passive"/>
+      <node ref="C67" pin="2" pintype="passive"/>
+      <node ref="C68" pin="2" pintype="passive"/>
+      <node ref="C69" pin="2" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="C70" pin="2" pintype="passive"/>
+      <node ref="C71" pin="2" pintype="passive"/>
+      <node ref="C72" pin="2" pintype="passive"/>
+      <node ref="C74" pin="2" pintype="passive"/>
+      <node ref="C75" pin="2" pintype="passive"/>
+      <node ref="C77" pin="2" pintype="passive"/>
+      <node ref="C78" pin="2" pintype="passive"/>
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D2" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D3" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D4" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D5" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D6" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D7" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D8" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D9" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="J1" pin="2" pinfunction="Pin_2" pintype="power_out"/>
+      <node ref="U1" pin="1" pinfunction="GND" pintype="power_in"/>
+      <node ref="U10" pin="4" pinfunction="GND" pintype="power_in"/>
+      <node ref="U11" pin="3" pinfunction="+" pintype="input"/>
+      <node ref="U12" pin="3" pinfunction="+" pintype="input"/>
+      <node ref="U13" pin="3" pinfunction="+" pintype="input"/>
+      <node ref="U14" pin="3" pinfunction="+" pintype="input"/>
+      <node ref="U15" pin="3" pinfunction="+" pintype="input"/>
+      <node ref="U16" pin="3" pinfunction="+" pintype="input"/>
+      <node ref="U19" pin="3" pinfunction="+" pintype="input"/>
+      <node ref="U2" pin="3" pinfunction="+" pintype="input"/>
+      <node ref="U20" pin="3" pinfunction="+" pintype="input"/>
+      <node ref="U21" pin="3" pinfunction="+" pintype="input"/>
+      <node ref="U22" pin="3" pinfunction="+" pintype="input"/>
+      <node ref="U23" pin="3" pinfunction="+" pintype="input"/>
+      <node ref="U24" pin="3" pinfunction="+" pintype="input"/>
+      <node ref="U3" pin="3" pinfunction="+" pintype="input"/>
+      <node ref="U6" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="U7" pin="1" pinfunction="GND" pintype="power_in"/>
+      <node ref="U8" pin="3" pinfunction="+" pintype="input"/>
+      <node ref="U9" pin="3" pinfunction="+" pintype="input"/>
+    </net>
+    <net code="8" name="Net-(C42-Pad1)">
+      <node ref="C42" pin="1" pintype="passive"/>
+      <node ref="R13" pin="2" pintype="passive"/>
+      <node ref="R15" pin="1" pintype="passive"/>
+      <node ref="U13" pin="2" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="9" name="Net-(C45-Pad1)">
+      <node ref="C45" pin="1" pintype="passive"/>
+      <node ref="R14" pin="2" pintype="passive"/>
+      <node ref="R16" pin="1" pintype="passive"/>
+      <node ref="U14" pin="2" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="10" name="Net-(C73-Pad1)">
+      <node ref="C73" pin="1" pintype="passive"/>
+      <node ref="R34" pin="2" pintype="passive"/>
+      <node ref="R36" pin="1" pintype="passive"/>
+      <node ref="U23" pin="2" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="11" name="Net-(C76-Pad1)">
+      <node ref="C76" pin="1" pintype="passive"/>
+      <node ref="R35" pin="2" pintype="passive"/>
+      <node ref="R37" pin="1" pintype="passive"/>
+      <node ref="U24" pin="2" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="12" name="Net-(D1-Pad1)">
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="U2" pin="2" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="13" name="Net-(D2-Pad1)">
+      <node ref="D2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="U3" pin="2" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="14" name="Net-(D3-Pad1)">
+      <node ref="D3" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R17" pin="1" pintype="passive"/>
+      <node ref="U15" pin="2" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="15" name="Net-(D4-Pad1)">
+      <node ref="D4" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R18" pin="1" pintype="passive"/>
+      <node ref="U16" pin="2" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="16" name="Net-(D5-Pad2)">
+      <node ref="D5" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="Q1" pin="1" pintype="passive"/>
+      <node ref="R19" pin="1" pintype="passive"/>
+    </net>
+    <net code="17" name="Net-(D6-Pad2)">
+      <node ref="D6" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="Q2" pin="1" pintype="passive"/>
+      <node ref="R22" pin="1" pintype="passive"/>
+    </net>
+    <net code="18" name="Net-(D7-Pad2)">
+      <node ref="D7" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="Q3" pin="1" pintype="passive"/>
+      <node ref="R23" pin="1" pintype="passive"/>
+    </net>
+    <net code="19" name="Net-(D8-Pad2)">
+      <node ref="D8" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="Q4" pin="1" pintype="passive"/>
+      <node ref="R24" pin="1" pintype="passive"/>
+    </net>
+    <net code="20" name="Net-(D9-Pad2)">
+      <node ref="D9" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R33" pin="1" pintype="passive"/>
+    </net>
+    <net code="21" name="Net-(Q1-Pad2)">
+      <node ref="Q1" pin="2" pintype="passive"/>
+      <node ref="R19" pin="2" pintype="passive"/>
+    </net>
+    <net code="22" name="Net-(Q2-Pad2)">
+      <node ref="Q2" pin="2" pintype="passive"/>
+      <node ref="R22" pin="2" pintype="passive"/>
+    </net>
+    <net code="23" name="Net-(Q3-Pad2)">
+      <node ref="Q3" pin="2" pintype="passive"/>
+      <node ref="R23" pin="2" pintype="passive"/>
+    </net>
+    <net code="24" name="Net-(Q4-Pad2)">
+      <node ref="Q4" pin="2" pintype="passive"/>
+      <node ref="R24" pin="2" pintype="passive"/>
+    </net>
+    <net code="25" name="Net-(R1-Pad2)">
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="U2" pin="6" pintype="output"/>
+    </net>
+    <net code="26" name="Net-(R2-Pad2)">
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+      <node ref="U3" pin="6" pintype="output"/>
+    </net>
+    <net code="27" name="Net-(R5-Pad2)">
+      <node ref="R5" pin="2" pintype="passive"/>
+      <node ref="R8" pin="1" pintype="passive"/>
+      <node ref="U8" pin="6" pintype="output"/>
+    </net>
+    <net code="28" name="Net-(R10-Pad1)">
+      <node ref="R10" pin="1" pintype="passive"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+      <node ref="U9" pin="6" pintype="output"/>
+    </net>
+    <net code="29" name="Net-(R10-Pad2)">
+      <node ref="R10" pin="2" pintype="passive"/>
+      <node ref="R12" pin="2" pintype="passive"/>
+      <node ref="R9" pin="2" pintype="passive"/>
+      <node ref="U12" pin="2" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="30" name="Net-(R11-Pad1)">
+      <node ref="R11" pin="1" pintype="passive"/>
+      <node ref="R13" pin="1" pintype="passive"/>
+      <node ref="U11" pin="6" pintype="output"/>
+    </net>
+    <net code="31" name="Net-(R11-Pad2)">
+      <node ref="R11" pin="2" pintype="passive"/>
+      <node ref="R7" pin="2" pintype="passive"/>
+      <node ref="R8" pin="2" pintype="passive"/>
+      <node ref="U11" pin="2" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="32" name="Net-(R12-Pad1)">
+      <node ref="R12" pin="1" pintype="passive"/>
+      <node ref="R14" pin="1" pintype="passive"/>
+      <node ref="U12" pin="6" pintype="output"/>
+    </net>
+    <net code="33" name="Net-(R17-Pad2)">
+      <node ref="R17" pin="2" pintype="passive"/>
+      <node ref="R20" pin="1" pintype="passive"/>
+      <node ref="U15" pin="6" pintype="output"/>
+    </net>
+    <net code="34" name="Net-(R18-Pad2)">
+      <node ref="R18" pin="2" pintype="passive"/>
+      <node ref="R21" pin="1" pintype="passive"/>
+      <node ref="U16" pin="6" pintype="output"/>
+    </net>
+    <net code="35" name="Net-(R25-Pad2)">
+      <node ref="R25" pin="2" pintype="passive"/>
+      <node ref="R28" pin="1" pintype="passive"/>
+      <node ref="U19" pin="6" pintype="output"/>
+    </net>
+    <net code="36" name="Net-(R26-Pad2)">
+      <node ref="R26" pin="2" pintype="passive"/>
+      <node ref="R30" pin="1" pintype="passive"/>
+      <node ref="U20" pin="6" pintype="output"/>
+    </net>
+    <net code="37" name="Net-(R27-Pad2)">
+      <node ref="R27" pin="2" pintype="passive"/>
+      <node ref="R28" pin="2" pintype="passive"/>
+      <node ref="R31" pin="2" pintype="passive"/>
+      <node ref="U21" pin="2" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="38" name="Net-(R29-Pad2)">
+      <node ref="R29" pin="2" pintype="passive"/>
+      <node ref="R30" pin="2" pintype="passive"/>
+      <node ref="R32" pin="2" pintype="passive"/>
+      <node ref="U22" pin="2" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="39" name="Net-(R31-Pad1)">
+      <node ref="R31" pin="1" pintype="passive"/>
+      <node ref="R34" pin="1" pintype="passive"/>
+      <node ref="U21" pin="6" pintype="output"/>
+    </net>
+    <net code="40" name="Net-(R32-Pad1)">
+      <node ref="R32" pin="1" pintype="passive"/>
+      <node ref="R35" pin="1" pintype="passive"/>
+      <node ref="U22" pin="6" pintype="output"/>
+    </net>
+    <net code="41" name="RH1">
+      <node ref="J3" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="R20" pin="2" pintype="passive"/>
+    </net>
+    <net code="42" name="RH2">
+      <node ref="J4" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+    </net>
+    <net code="43" name="RH3">
+      <node ref="J5" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="R21" pin="2" pintype="passive"/>
+    </net>
+    <net code="44" name="RH4">
+      <node ref="J6" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+    </net>
+    <net code="45" name="RL1">
+      <node ref="J3" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R25" pin="1" pintype="passive"/>
+    </net>
+    <net code="46" name="RL2">
+      <node ref="J4" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+    </net>
+    <net code="47" name="RL3">
+      <node ref="J5" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R26" pin="1" pintype="passive"/>
+    </net>
+    <net code="48" name="RL4">
+      <node ref="J6" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+    </net>
+    <net code="49" name="RW1">
+      <node ref="J3" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U19" pin="2" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="50" name="RW2">
+      <node ref="J4" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U8" pin="2" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="51" name="RW3">
+      <node ref="J5" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U20" pin="2" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="52" name="RW4">
+      <node ref="J6" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U9" pin="2" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="53" name="V1">
+      <node ref="C73" pin="2" pintype="passive"/>
+      <node ref="J7" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="R36" pin="2" pintype="passive"/>
+      <node ref="U23" pin="6" pintype="output"/>
+    </net>
+    <net code="54" name="V2">
+      <node ref="C42" pin="2" pintype="passive"/>
+      <node ref="J7" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="R15" pin="2" pintype="passive"/>
+      <node ref="U13" pin="6" pintype="output"/>
+    </net>
+    <net code="55" name="V3">
+      <node ref="C76" pin="2" pintype="passive"/>
+      <node ref="J7" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="R37" pin="2" pintype="passive"/>
+      <node ref="U24" pin="6" pintype="output"/>
+    </net>
+    <net code="56" name="V4">
+      <node ref="C45" pin="2" pintype="passive"/>
+      <node ref="J7" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R16" pin="2" pintype="passive"/>
+      <node ref="U14" pin="6" pintype="output"/>
+    </net>
+    <net code="57" name="unconnected-(U1-Pad2)">
+      <node ref="U1" pin="2" pinfunction="Remote_On_Off" pintype="no_connect"/>
+    </net>
+    <net code="58" name="unconnected-(U1-Pad6)">
+      <node ref="U1" pin="6" pinfunction="Common" pintype="no_connect"/>
+    </net>
+    <net code="59" name="unconnected-(U1-Pad9)">
+      <node ref="U1" pin="9" pinfunction="Common" pintype="no_connect"/>
+    </net>
+    <net code="60" name="unconnected-(U2-Pad1)">
+      <node ref="U2" pin="1" pinfunction="OFF" pintype="passive+no_connect"/>
+    </net>
+    <net code="61" name="unconnected-(U2-Pad5)">
+      <node ref="U2" pin="5" pinfunction="OFF" pintype="passive+no_connect"/>
+    </net>
+    <net code="62" name="unconnected-(U2-Pad8)">
+      <node ref="U2" pin="8" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="63" name="unconnected-(U3-Pad1)">
+      <node ref="U3" pin="1" pinfunction="OFF" pintype="passive+no_connect"/>
+    </net>
+    <net code="64" name="unconnected-(U3-Pad5)">
+      <node ref="U3" pin="5" pinfunction="OFF" pintype="passive+no_connect"/>
+    </net>
+    <net code="65" name="unconnected-(U3-Pad8)">
+      <node ref="U3" pin="8" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="66" name="unconnected-(U8-Pad1)">
+      <node ref="U8" pin="1" pinfunction="OFF" pintype="passive+no_connect"/>
+    </net>
+    <net code="67" name="unconnected-(U8-Pad5)">
+      <node ref="U8" pin="5" pinfunction="OFF" pintype="passive+no_connect"/>
+    </net>
+    <net code="68" name="unconnected-(U8-Pad8)">
+      <node ref="U8" pin="8" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="69" name="unconnected-(U9-Pad1)">
+      <node ref="U9" pin="1" pinfunction="OFF" pintype="passive+no_connect"/>
+    </net>
+    <net code="70" name="unconnected-(U9-Pad5)">
+      <node ref="U9" pin="5" pinfunction="OFF" pintype="passive+no_connect"/>
+    </net>
+    <net code="71" name="unconnected-(U9-Pad8)">
+      <node ref="U9" pin="8" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="72" name="unconnected-(U10-Pad3)">
+      <node ref="U10" pin="3" pinfunction="Temp" pintype="output+no_connect"/>
+    </net>
+    <net code="73" name="unconnected-(U10-Pad5)">
+      <node ref="U10" pin="5" pinfunction="Trim" pintype="input+no_connect"/>
+    </net>
+    <net code="74" name="unconnected-(U11-Pad1)">
+      <node ref="U11" pin="1" pinfunction="OFF" pintype="passive+no_connect"/>
+    </net>
+    <net code="75" name="unconnected-(U11-Pad5)">
+      <node ref="U11" pin="5" pinfunction="OFF" pintype="passive+no_connect"/>
+    </net>
+    <net code="76" name="unconnected-(U11-Pad8)">
+      <node ref="U11" pin="8" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="77" name="unconnected-(U12-Pad1)">
+      <node ref="U12" pin="1" pinfunction="OFF" pintype="passive+no_connect"/>
+    </net>
+    <net code="78" name="unconnected-(U12-Pad5)">
+      <node ref="U12" pin="5" pinfunction="OFF" pintype="passive+no_connect"/>
+    </net>
+    <net code="79" name="unconnected-(U12-Pad8)">
+      <node ref="U12" pin="8" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="80" name="unconnected-(U13-Pad1)">
+      <node ref="U13" pin="1" pinfunction="OFF" pintype="passive+no_connect"/>
+    </net>
+    <net code="81" name="unconnected-(U13-Pad5)">
+      <node ref="U13" pin="5" pinfunction="OFF" pintype="passive+no_connect"/>
+    </net>
+    <net code="82" name="unconnected-(U13-Pad8)">
+      <node ref="U13" pin="8" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="83" name="unconnected-(U14-Pad1)">
+      <node ref="U14" pin="1" pinfunction="OFF" pintype="passive+no_connect"/>
+    </net>
+    <net code="84" name="unconnected-(U14-Pad5)">
+      <node ref="U14" pin="5" pinfunction="OFF" pintype="passive+no_connect"/>
+    </net>
+    <net code="85" name="unconnected-(U14-Pad8)">
+      <node ref="U14" pin="8" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="86" name="unconnected-(U15-Pad1)">
+      <node ref="U15" pin="1" pinfunction="OFF" pintype="passive+no_connect"/>
+    </net>
+    <net code="87" name="unconnected-(U15-Pad5)">
+      <node ref="U15" pin="5" pinfunction="OFF" pintype="passive+no_connect"/>
+    </net>
+    <net code="88" name="unconnected-(U15-Pad8)">
+      <node ref="U15" pin="8" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="89" name="unconnected-(U16-Pad1)">
+      <node ref="U16" pin="1" pinfunction="OFF" pintype="passive+no_connect"/>
+    </net>
+    <net code="90" name="unconnected-(U16-Pad5)">
+      <node ref="U16" pin="5" pinfunction="OFF" pintype="passive+no_connect"/>
+    </net>
+    <net code="91" name="unconnected-(U16-Pad8)">
+      <node ref="U16" pin="8" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="92" name="unconnected-(U19-Pad1)">
+      <node ref="U19" pin="1" pinfunction="OFF" pintype="passive+no_connect"/>
+    </net>
+    <net code="93" name="unconnected-(U19-Pad5)">
+      <node ref="U19" pin="5" pinfunction="OFF" pintype="passive+no_connect"/>
+    </net>
+    <net code="94" name="unconnected-(U19-Pad8)">
+      <node ref="U19" pin="8" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="95" name="unconnected-(U20-Pad1)">
+      <node ref="U20" pin="1" pinfunction="OFF" pintype="passive+no_connect"/>
+    </net>
+    <net code="96" name="unconnected-(U20-Pad5)">
+      <node ref="U20" pin="5" pinfunction="OFF" pintype="passive+no_connect"/>
+    </net>
+    <net code="97" name="unconnected-(U20-Pad8)">
+      <node ref="U20" pin="8" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="98" name="unconnected-(U21-Pad1)">
+      <node ref="U21" pin="1" pinfunction="OFF" pintype="passive+no_connect"/>
+    </net>
+    <net code="99" name="unconnected-(U21-Pad5)">
+      <node ref="U21" pin="5" pinfunction="OFF" pintype="passive+no_connect"/>
+    </net>
+    <net code="100" name="unconnected-(U21-Pad8)">
+      <node ref="U21" pin="8" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="101" name="unconnected-(U22-Pad1)">
+      <node ref="U22" pin="1" pinfunction="OFF" pintype="passive+no_connect"/>
+    </net>
+    <net code="102" name="unconnected-(U22-Pad5)">
+      <node ref="U22" pin="5" pinfunction="OFF" pintype="passive+no_connect"/>
+    </net>
+    <net code="103" name="unconnected-(U22-Pad8)">
+      <node ref="U22" pin="8" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="104" name="unconnected-(U23-Pad1)">
+      <node ref="U23" pin="1" pinfunction="OFF" pintype="passive+no_connect"/>
+    </net>
+    <net code="105" name="unconnected-(U23-Pad5)">
+      <node ref="U23" pin="5" pinfunction="OFF" pintype="passive+no_connect"/>
+    </net>
+    <net code="106" name="unconnected-(U23-Pad8)">
+      <node ref="U23" pin="8" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="107" name="unconnected-(U24-Pad1)">
+      <node ref="U24" pin="1" pinfunction="OFF" pintype="passive+no_connect"/>
+    </net>
+    <net code="108" name="unconnected-(U24-Pad5)">
+      <node ref="U24" pin="5" pinfunction="OFF" pintype="passive+no_connect"/>
+    </net>
+    <net code="109" name="unconnected-(U24-Pad8)">
+      <node ref="U24" pin="8" pinfunction="NC" pintype="no_connect"/>
+    </net>
+  </nets>
+</export>
