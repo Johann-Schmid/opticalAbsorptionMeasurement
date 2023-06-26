@@ -1,6 +1,6 @@
 # opticalAbsorptionMeasurement
-You can load the software to the project under<br>
-[Software](https://github.com/Johann-Schmid/plotLabjack)<br>
+You can load the software to the project with this link<br/><br/>
+<h3>[Software](https://github.com/Johann-Schmid/plotLabjack)<h3/><br/><br/>
 Schematic and Board of the Optical Absorptions Measurement Device OAMD
 ![Image](20230604-IMG_1222.jpg)
 The complete device
